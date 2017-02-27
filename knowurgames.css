@@ -1,0 +1,19 @@
+body{
+    background-image:URL('IMAGES/watch_dogs_aiden_pearce_game_2014_92926_1920x1080.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+#p1{
+    border:30x;
+    padding:30px;
+    float:right;
+
+}
+
+li{
+    list-style-type:none;
+    float:left;
+}
